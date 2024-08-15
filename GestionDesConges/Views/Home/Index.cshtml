@@ -1,0 +1,73 @@
+﻿@using GestionDesConges.ViewModels
+@model DashboardViewModel
+
+<head>
+    <title>Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<div class="chart-container" style="position: relative; height:40vh; width:80vw">
+    <canvas id="leaveChart"></canvas>
+</div>
+
+
+    <div class="recent-leave-requests">
+        <h2>Recent Leave Requests</h2>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Start Date</th>
+                    <th>End Date</th>
+                    <th>Type</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var request in Model.RecentLeaveRequests)
+                {
+                    <tr>
+                        <td>@request.StartDate.ToString("yyyy-MM-dd")</td>
+                        <td>@request.EndDate.ToString("yyyy-MM-dd")</td>
+                        <td>@request.AbsenceType.ToString()</td>
+                        <td>@request.Status.ToString()</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+<script>
+    // Pass the data from the ViewModel to JavaScript
+    var totalDays = @Model.TotalLeaveDays;
+    var daysTaken = @Model.LeaveDaysTaken;
+    var daysLeft = @Model.RemainingLeaveDays;
+
+    var ctx = document.getElementById('leaveChart').getContext('2d');
+    var leaveChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: ['Total Days Available', 'Days Taken', 'Days Left'],
+            datasets: [{
+                label: 'Leave Days',
+                data: [totalDays, daysTaken, daysLeft],
+                backgroundColor: [
+                    'rgba(54, 162, 235, 0.2)',
+                    'rgba(255, 99, 132, 0.2)',
+                    'rgba(75, 192, 192, 0.2)'
+                ],
+                borderColor: [
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 99, 132, 1)',
+                    'rgba(75, 192, 192, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                y: {
+                    beginAtZero: true
+                }
+            }
+        }
+    });
+</script>

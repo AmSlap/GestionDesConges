@@ -1,0 +1,60 @@
+﻿@model IEnumerable<GestionDesConges.Models.LeaveRequest>
+
+@{
+    ViewData["Title"] = "Mes Demandes de conge";
+    bool canCreateNewLeaveRequest = (bool)ViewBag.CanCreateNewLeaveRequest;
+}
+
+<h1>Dashboard</h1>
+
+
+<p>
+    @if (canCreateNewLeaveRequest)
+    {
+        <a asp-action="Create" class="btn btn-primary">Faire une demande de conges</a>
+    }
+    else
+    {
+        <span class="text-danger">You have exceeded the limit of 25 days for leave requests this year.</span>
+    }
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.First().Employee.Email)</th>
+            <th>@Html.DisplayNameFor(model => model.First().AbsenceType)</th>
+            <th>@Html.DisplayNameFor(model => model.First().NumberOfDays)</th>
+            <th>@Html.DisplayNameFor(model => model.First().StartDate)</th>
+            <th>@Html.DisplayNameFor(model => model.First().EndDate)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Reason)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Status)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Comments)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Employee.Email)</td>
+                <td>@item.AbsenceType.ToString()</td>
+                <td>@Html.DisplayFor(modelItem => item.NumberOfDays)</td>
+                <td>@Html.DisplayFor(modelItem => item.StartDate)</td>
+                <td>@Html.DisplayFor(modelItem => item.EndDate)</td>
+                <td>@Html.DisplayFor(modelItem => item.Reason)</td>
+                <td>@item.Status.ToString()</td>
+                <td>@Html.DisplayFor(modelItem => item.Comments)</td>
+                <td>
+                    
+                    <a asp-action="Details" asp-route-id="@item.LeaveRequestId">Details</a> |
+                    @if (item.Status == GestionDesConges.Data.enums.ApprovalStatus.Pending)
+                    {
+                        <a asp-action="Edit" asp-route-id="@item.LeaveRequestId">Edit</a> 
+                        <a asp-action="Delete" asp-route-id="@item.LeaveRequestId">Delete</a>
+                    }
+                    
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

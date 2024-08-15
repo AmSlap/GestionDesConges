@@ -1,0 +1,52 @@
+﻿@using GestionDesConges.Data.enums
+@model GestionDesConges.Models.Approval
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Approval</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="LeaveRequestId" class="control-label"></label>
+                <select asp-for="LeaveRequestId" class="form-control" asp-items="ViewBag.LeaveRequestId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="ApproverId" class="control-label"></label>
+                <select asp-for="ApproverId" class ="form-control" asp-items="ViewBag.ApproverId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="ApprovalStatus" class="control-label"></label>
+                <select asp-for="ApprovalStatus" class="form-control" asp-items="@Html.GetEnumSelectList<ApprovalStatus>()"></select>
+                <span asp-validation-for="ApprovalStatus" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Comments" class="control-label"></label>
+                <input asp-for="Comments" class="form-control" />
+                <span asp-validation-for="Comments" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ApprovalDate" class="control-label"></label>
+                <input asp-for="ApprovalDate" class="form-control" />
+                <span asp-validation-for="ApprovalDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
