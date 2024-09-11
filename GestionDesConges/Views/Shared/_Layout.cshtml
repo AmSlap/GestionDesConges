@@ -65,7 +65,7 @@
                     {
                         <li class="nav-item">
                             <a class="nav-link @(ViewContext.RouteData.Values["Controller"].ToString() == "Employee" && ViewContext.RouteData.Values["Action"].ToString() == "Index" ? "active" : "")"
-                               asp-area="" asp-controller="Employee" asp-action="Index">Employees</a>
+                               asp-area="" asp-controller="Employee" asp-action="Index">Gérer les Employés</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link @(ViewContext.RouteData.Values["Controller"].ToString() == "EmployeeLogins" && ViewContext.RouteData.Values["Action"].ToString() == "Index" ? "active" : "")"
@@ -73,15 +73,15 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link @(ViewContext.RouteData.Values["Controller"].ToString() == "Department" && ViewContext.RouteData.Values["Action"].ToString() == "Index" ? "active" : "")"
-                               asp-area="" asp-controller="Department" asp-action="Index">Departments</a>
+                               asp-area="" asp-controller="Department" asp-action="Index">Gérer les Départements</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link @(ViewContext.RouteData.Values["Controller"].ToString() == "Approval" && ViewContext.RouteData.Values["Action"].ToString() == "Index" ? "active" : "")"
-                               asp-area="" asp-controller="Approval" asp-action="Index">Approvals</a>
+                               asp-area="" asp-controller="Approval" asp-action="Index">Demandes de Congé Traitées</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link @(ViewContext.RouteData.Values["Controller"].ToString() == "Decision" && ViewContext.RouteData.Values["Action"].ToString() == "Index" ? "active" : "")"
-                               asp-area="" asp-controller="Decision" asp-action="Index">Decisions</a>
+                               asp-area="" asp-controller="Decision" asp-action="Index">Demandes de Congé en Attente</a>
                         </li>
                     }
                     <li class="nav-item">

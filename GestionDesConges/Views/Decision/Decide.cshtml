@@ -61,13 +61,15 @@
     </dl>
 </div>
 <div>
-    <form asp-action="Approve" method="post">
-        <input type="hidden" name="leaveRequestId" value="@Model.LeaveRequestId" />
-        <button type="submit">Approve</button>
-    </form>
-    <form asp-action="Deny" method="post">
-        <input type="hidden" name="leaveRequestId" value="@Model.LeaveRequestId" />
-        <button type="submit">Deny</button>
-    </form>
+    <div class="d-flex gap-2">
+        <form asp-action="Approve" method="post">
+            <input type="hidden" name="leaveRequestId" value="@Model.LeaveRequestId" />
+            <button type="submit" class="btn btn-primary rounded-pill px-3">Accepter</button>
+        </form>
+        <form asp-action="Deny" method="post">
+            <input type="hidden" name="leaveRequestId" value="@Model.LeaveRequestId" />
+            <button type="submit" class="btn btn-danger rounded-pill px-3">Refuser</button>
+        </form>
+    </div>
     <a asp-action="Index">Back to List</a>
 </div>

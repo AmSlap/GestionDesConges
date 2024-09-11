@@ -256,3 +256,13 @@ C:\Users\Slap\source\repos\GestionDesConges\GestionDesConges\bin\Debug\net8.0\Mi
 C:\Users\Slap\source\repos\GestionDesConges\GestionDesConges\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\Slap\source\repos\GestionDesConges\GestionDesConges\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\Slap\source\repos\GestionDesConges\GestionDesConges\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Slap\source\repos\GestionDesConges\GestionDesConges\obj\Debug\net8.0\GestionDesConges.sourcelink.json
+C:\Users\Slap\source\repos\GestionDesConges\GestionDesConges\bin\Debug\net8.0\DotNetTools.dll
+C:\Users\Slap\source\repos\GestionDesConges\GestionDesConges\bin\Debug\net8.0\EntityFrameworkCore.Diagrams.dll
+C:\Users\Slap\source\repos\GestionDesConges\GestionDesConges\bin\Debug\net8.0\ExcelAbstraction.dll
+C:\Users\Slap\source\repos\GestionDesConges\GestionDesConges\bin\Debug\net8.0\ExcelAbstraction.NPOI.dll
+C:\Users\Slap\source\repos\GestionDesConges\GestionDesConges\bin\Debug\net8.0\ICSharpCode.SharpZipLib.dll
+C:\Users\Slap\source\repos\GestionDesConges\GestionDesConges\bin\Debug\net8.0\NPOI.OOXML.dll
+C:\Users\Slap\source\repos\GestionDesConges\GestionDesConges\bin\Debug\net8.0\NPOI.OpenXml4Net.dll
+C:\Users\Slap\source\repos\GestionDesConges\GestionDesConges\bin\Debug\net8.0\NPOI.OpenXmlFormats.dll
+C:\Users\Slap\source\repos\GestionDesConges\GestionDesConges\bin\Debug\net8.0\NPOI.dll

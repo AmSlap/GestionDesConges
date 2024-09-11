@@ -62,7 +62,7 @@ namespace GestionDesConges.Controllers
         {
             Employee employee = await _employeeRepository.FindById(id);
             if (employee == null) return View("Error");
-            var editemp= new EditEmployeeViewModel
+            var editemp = new EditEmployeeViewModel
             {
                 Id = id,
                 Name = employee.FullName,
@@ -98,6 +98,32 @@ namespace GestionDesConges.Controllers
                 return RedirectToAction("index");
             }
             return View(employee);
+
+        }
+
+        public async Task<IActionResult> Delete(int id)
+        {
+            var employee = await _employeeRepository.FindById(id);
+            if (employee == null)
+            {
+                return NotFound();
+            }
+            return View(employee);
+        }
+
+
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> DeleteConfirmed(int id)
+        {
+            var employee = await _employeeRepository.FindByIdNoTracking(id);
+            if (employee == null)
+            {
+                return NotFound();
+            }
+
+            _employeeRepository.Delete(employee);
+            return RedirectToAction(nameof(Index));
 
         }
     }

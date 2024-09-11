@@ -8,6 +8,7 @@ namespace GestionDesConges.Repository.Interfaces
         Task<IEnumerable<Employee>> GetAll();
         Task<IEnumerable<Employee>> FindByName(String name);
         Task<IEnumerable<Employee>> FindByPosition(Position position);
+        Task<IEnumerable<Employee>> GetEmployeesWithoutLogin();
         Task<Employee> FindById(int id);
         Task<Employee> FindByIdNoTracking(int id);
         bool Add(Employee employee);

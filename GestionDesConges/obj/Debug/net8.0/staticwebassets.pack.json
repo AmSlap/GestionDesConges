@@ -1,6 +1,54 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\Slap\\.nuget\\packages\\entityframeworkcore.diagrams\\0.4.2\\contentFiles\\any\\netstandard1.6\\wwwroot\\db-diagrams\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\db-diagrams\\3rdpartylicenses.txt"
+    },
+    {
+      "Id": "C:\\Users\\Slap\\.nuget\\packages\\entityframeworkcore.diagrams\\0.4.2\\contentFiles\\any\\netstandard1.6\\wwwroot\\db-diagrams\\MaterialIcons-Regular.012cf6a10129e2275d79.woff",
+      "PackagePath": "staticwebassets\\db-diagrams\\MaterialIcons-Regular.012cf6a10129e2275d79.woff"
+    },
+    {
+      "Id": "C:\\Users\\Slap\\.nuget\\packages\\entityframeworkcore.diagrams\\0.4.2\\contentFiles\\any\\netstandard1.6\\wwwroot\\db-diagrams\\MaterialIcons-Regular.570eb83859dc23dd0eec.woff2",
+      "PackagePath": "staticwebassets\\db-diagrams\\MaterialIcons-Regular.570eb83859dc23dd0eec.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Slap\\.nuget\\packages\\entityframeworkcore.diagrams\\0.4.2\\contentFiles\\any\\netstandard1.6\\wwwroot\\db-diagrams\\MaterialIcons-Regular.a37b0c01c0baf1888ca8.ttf",
+      "PackagePath": "staticwebassets\\db-diagrams\\MaterialIcons-Regular.a37b0c01c0baf1888ca8.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Slap\\.nuget\\packages\\entityframeworkcore.diagrams\\0.4.2\\contentFiles\\any\\netstandard1.6\\wwwroot\\db-diagrams\\MaterialIcons-Regular.e79bfd88537def476913.eot",
+      "PackagePath": "staticwebassets\\db-diagrams\\MaterialIcons-Regular.e79bfd88537def476913.eot"
+    },
+    {
+      "Id": "C:\\Users\\Slap\\.nuget\\packages\\entityframeworkcore.diagrams\\0.4.2\\contentFiles\\any\\netstandard1.6\\wwwroot\\db-diagrams\\favicon.ico",
+      "PackagePath": "staticwebassets\\db-diagrams\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Slap\\.nuget\\packages\\entityframeworkcore.diagrams\\0.4.2\\contentFiles\\any\\netstandard1.6\\wwwroot\\db-diagrams\\index.html",
+      "PackagePath": "staticwebassets\\db-diagrams\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Slap\\.nuget\\packages\\entityframeworkcore.diagrams\\0.4.2\\contentFiles\\any\\netstandard1.6\\wwwroot\\db-diagrams\\inline.764ea7e8f233c3a6809b.bundle.js",
+      "PackagePath": "staticwebassets\\db-diagrams\\inline.764ea7e8f233c3a6809b.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Slap\\.nuget\\packages\\entityframeworkcore.diagrams\\0.4.2\\contentFiles\\any\\netstandard1.6\\wwwroot\\db-diagrams\\main.d0329d265059e3e55cc6.bundle.js",
+      "PackagePath": "staticwebassets\\db-diagrams\\main.d0329d265059e3e55cc6.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Slap\\.nuget\\packages\\entityframeworkcore.diagrams\\0.4.2\\contentFiles\\any\\netstandard1.6\\wwwroot\\db-diagrams\\polyfills.0963b44a58b5526cfab7.bundle.js",
+      "PackagePath": "staticwebassets\\db-diagrams\\polyfills.0963b44a58b5526cfab7.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Slap\\.nuget\\packages\\entityframeworkcore.diagrams\\0.4.2\\contentFiles\\any\\netstandard1.6\\wwwroot\\db-diagrams\\styles.20f9545db506af88f79c.bundle.css",
+      "PackagePath": "staticwebassets\\db-diagrams\\styles.20f9545db506af88f79c.bundle.css"
+    },
+    {
+      "Id": "C:\\Users\\Slap\\.nuget\\packages\\entityframeworkcore.diagrams\\0.4.2\\contentFiles\\any\\netstandard1.6\\wwwroot\\db-diagrams\\vendor.fa09c1316e94520ecd3d.bundle.js",
+      "PackagePath": "staticwebassets\\db-diagrams\\vendor.fa09c1316e94520ecd3d.bundle.js"
+    },
+    {
       "Id": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GestionDesConges.bundle.scp.css",
       "PackagePath": "staticwebassets\\GestionDesConges.bundle.scp.css"
     },

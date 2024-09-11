@@ -47,8 +47,8 @@ var app = builder.Build();
 
 
 
-    // Configure the HTTP request pipeline.
-    if (!app.Environment.IsDevelopment())
+// Configure the HTTP request pipeline.
+if (!app.Environment.IsDevelopment())
     {
         app.UseExceptionHandler("/Home/Error");
         app.UseHsts();
@@ -66,6 +66,7 @@ app.UseAuthorization();
 
 // Use session middleware
 app.UseSession();
+
 
     app.MapControllerRoute(
         name: "default",

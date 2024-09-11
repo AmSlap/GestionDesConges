@@ -50,7 +50,8 @@ namespace GestionDesConges.Controllers
         // GET: EmployeeLogins/Create
         public async Task<IActionResult> Create()
         {
-            ViewBag.EmployeeId = new SelectList(await _employeeRepository.GetAll(), "EmployeeId", "Email");
+            var employeesWithoutLogin = await _employeeRepository.GetEmployeesWithoutLogin();
+            ViewBag.EmployeeId = new SelectList(employeesWithoutLogin, "EmployeeId", "FullName"); // Assuming FullName is the employee's name field
             return View();
         }
 

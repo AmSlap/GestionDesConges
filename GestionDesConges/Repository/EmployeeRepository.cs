@@ -30,6 +30,14 @@ namespace GestionDesConges.Repository
         {
             return await _context.Employees.Include(a => a.Department).FirstOrDefaultAsync(a => a.EmployeeId == id);
         }
+        public async Task<IEnumerable<Employee>> GetEmployeesWithoutLogin()
+        {
+            var employeesWithLogin = await _context.EmployeeLogins.Select(el => el.EmployeeId).ToListAsync();
+            return await _context.Employees
+                                 .Include(e => e.Department)
+                                 .Where(e => !employeesWithLogin.Contains(e.EmployeeId))
+                                 .ToListAsync();
+        }
         public async Task<Employee> FindByIdNoTracking(int id)
         {
             return await _context.Employees.Include(a => a.Department).AsNoTracking().FirstOrDefaultAsync(a => a.EmployeeId == id);

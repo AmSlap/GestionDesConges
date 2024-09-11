@@ -75,5 +75,34 @@ namespace GestionDesConges.Controllers
             return View(department);
 
         }
+        public async Task<IActionResult> Delete(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            var department = await _departmentRepository.FindById(id.Value);
+            if (department == null)
+            {
+                return NotFound();
+            }
+
+            return View(department);
+        }
+
+        // POST: Department/Delete/5
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> DeleteConfirmed(int id)
+        {
+            var department = await _departmentRepository.FindById(id);
+            if (department != null)
+            {
+                _departmentRepository.Delete(department);
+            }
+
+            return RedirectToAction(nameof(Index));
+        }
     }
 }

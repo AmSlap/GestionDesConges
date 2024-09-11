@@ -34,6 +34,7 @@ namespace GestionDesConges.Repository
         {
             return await _context.EmployeeLogins.Where(a => a.Username == username && a.PasswordHash == password).Include(a=>a.Employee).FirstOrDefaultAsync();
         }
+
         public async Task<EmployeeLogin> FindByID(int? id)
         {
             return await _context.EmployeeLogins.Include(e => e.Employee).FirstOrDefaultAsync(m => m.EmployeeLoginId == id);
@@ -44,7 +45,7 @@ namespace GestionDesConges.Repository
         }
         public async Task<IEnumerable<EmployeeLogin>> GetAll()
         {
-            return await _context.EmployeeLogins.ToListAsync();
+            return await _context.EmployeeLogins.Include(e=>e.Employee).ToListAsync();
         }
 
         public bool Save()

@@ -53,5 +53,35 @@ namespace GestionDesConges.Controllers
             _approvalRepository.Add(approval);
             return RedirectToAction("Index");
         }
+        public async Task<IActionResult> Delete(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            var approval = await _approvalRepository.FindById(id.Value);
+            if (approval == null)
+            {
+                return NotFound();
+            }
+
+            return View(approval);
+        }
+
+        // POST: Approval/Delete/5
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> DeleteConfirmed(int id)
+        {
+            var approval = await _approvalRepository.FindById(id);
+            if (approval != null)
+            {
+                _approvalRepository.Delete(approval);
+            }
+
+            return RedirectToAction(nameof(Index));
+        }
+
     }
 }

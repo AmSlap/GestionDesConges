@@ -30,7 +30,7 @@ namespace GestionDesConges.Controllers
             int employeeId = (int)HttpContext.Session.GetInt32("employeeId");
             int numberOfDays = await _leaveRequestRepository.GetNumberOfDays(employeeId);
 
-            bool canCreateNewLeaveRequest = numberOfDays <= 25;
+            bool canCreateNewLeaveRequest = numberOfDays < 25;
 
             ViewBag.CanCreateNewLeaveRequest = canCreateNewLeaveRequest;
             IEnumerable<LeaveRequest> leaveRequests = await _leaveRequestRepository.FindByEmployee((int)HttpContext.Session.GetInt32("employeeId"));
@@ -82,7 +82,11 @@ namespace GestionDesConges.Controllers
                 }
             }
 
-           
+            int daysTaken = await _leaveRequestRepository.GetNumberOfDays((int)HttpContext.Session.GetInt32("employeeId"));
+
+            if ((numberOfDays + daysTaken) > 25){
+                return View("AddError");
+            }
             LeaveRequest lv = new LeaveRequest
             {
                 EmployeeId = leaveRequest.EmployeeId,
