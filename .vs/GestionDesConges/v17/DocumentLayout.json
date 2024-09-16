@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|c:\\users\\slap\\source\\repos\\gestiondesconges\\gestiondesconges\\views\\approval\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|solutionrelative:gestiondesconges\\views\\approval\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|c:\\users\\slap\\source\\repos\\gestiondesconges\\gestiondesconges\\controllers\\approvalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|solutionrelative:gestiondesconges\\controllers\\approvalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|c:\\users\\slap\\source\\repos\\gestiondesconges\\gestiondesconges\\views\\leaverequest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|solutionrelative:gestiondesconges\\views\\leaverequest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|c:\\users\\slap\\source\\repos\\gestiondesconges\\gestiondesconges\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|solutionrelative:gestiondesconges\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|c:\\users\\slap\\source\\repos\\gestiondesconges\\gestiondesconges\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|solutionrelative:gestiondesconges\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,7 +59,7 @@
       "RelativeMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|solutionrelative:gestiondesconges\\models\\approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|c:\\users\\slap\\source\\repos\\gestiondesconges\\gestiondesconges\\classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "AbsoluteMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|C:\\Users\\Slap\\source\\repos\\GestionDesConges\\gestiondesconges\\classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
       "RelativeMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|solutionrelative:gestiondesconges\\classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
@@ -74,10 +90,6 @@
       "RelativeMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|solutionrelative:gestiondesconges\\controllers\\decisioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|c:\\users\\slap\\source\\repos\\gestiondesconges\\gestiondesconges\\controllers\\approvalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|solutionrelative:gestiondesconges\\controllers\\approvalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|c:\\users\\slap\\source\\repos\\gestiondesconges\\gestiondesconges\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|solutionrelative:gestiondesconges\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -86,24 +98,12 @@
       "RelativeMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|solutionrelative:gestiondesconges\\views\\decision\\decide.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|c:\\users\\slap\\source\\repos\\gestiondesconges\\gestiondesconges\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|solutionrelative:gestiondesconges\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|c:\\users\\slap\\source\\repos\\gestiondesconges\\gestiondesconges\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|solutionrelative:gestiondesconges\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|c:\\users\\slap\\source\\repos\\gestiondesconges\\gestiondesconges\\views\\approval\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|solutionrelative:gestiondesconges\\views\\approval\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|c:\\users\\slap\\source\\repos\\gestiondesconges\\gestiondesconges\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|solutionrelative:gestiondesconges\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|c:\\users\\slap\\source\\repos\\gestiondesconges\\gestiondesconges\\views\\leaverequest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|solutionrelative:gestiondesconges\\views\\leaverequest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C422E03-9060-43AC-BEFA-59225CAB24D2}|GestionDesConges\\GestionDesConges.csproj|c:\\users\\slap\\source\\repos\\gestiondesconges\\gestiondesconges\\views\\employeelogins\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -121,63 +121,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 254,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IApprovalRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Repository\\Interfaces\\IApprovalRepository.cs",
-              "RelativeDocumentMoniker": "GestionDesConges\\Repository\\Interfaces\\IApprovalRepository.cs",
-              "ToolTip": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Repository\\Interfaces\\IApprovalRepository.cs",
-              "RelativeToolTip": "GestionDesConges\\Repository\\Interfaces\\IApprovalRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T10:18:52.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserRoles.cs",
-              "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Data\\UserRoles.cs",
-              "RelativeDocumentMoniker": "GestionDesConges\\Data\\UserRoles.cs",
-              "ToolTip": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Data\\UserRoles.cs",
-              "RelativeToolTip": "GestionDesConges\\Data\\UserRoles.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T10:16:18.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "GestionDesConges\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "GestionDesConges\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAwAAAAgmZmZmZktwA0AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T10:14:43.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LeaveRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Models\\LeaveRequest.cs",
-              "RelativeDocumentMoniker": "GestionDesConges\\Models\\LeaveRequest.cs",
-              "ToolTip": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Models\\LeaveRequest.cs",
-              "RelativeToolTip": "GestionDesConges\\Models\\LeaveRequest.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwA4AAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T15:31:18.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "EmployeeLogin.cs",
               "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Models\\EmployeeLogin.cs",
               "RelativeDocumentMoniker": "GestionDesConges\\Models\\EmployeeLogin.cs",
@@ -185,12 +133,11 @@
               "RelativeToolTip": "GestionDesConges\\Models\\EmployeeLogin.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAQwBoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T15:31:09.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T15:31:09.804Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "GestionDesConges\\Controllers\\AccountController.cs",
@@ -198,12 +145,11 @@
               "RelativeToolTip": "GestionDesConges\\Controllers\\AccountController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T15:22:54.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T15:22:54.016Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ApprovalRepository.cs",
               "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Repository\\ApprovalRepository.cs",
               "RelativeDocumentMoniker": "GestionDesConges\\Repository\\ApprovalRepository.cs",
@@ -211,12 +157,36 @@
               "RelativeToolTip": "GestionDesConges\\Repository\\ApprovalRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T13:47:02.237Z",
+              "WhenOpened": "2024-08-20T13:47:02.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Views\\LeaveRequest\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestionDesConges\\Views\\LeaveRequest\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Views\\LeaveRequest\\Index.cshtml",
+              "RelativeToolTip": "GestionDesConges\\Views\\LeaveRequest\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T13:53:50.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Data\\UserRoles.cs",
+              "RelativeDocumentMoniker": "GestionDesConges\\Data\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Data\\UserRoles.cs",
+              "RelativeToolTip": "GestionDesConges\\Data\\UserRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:16:18.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "GestionDesConges\\Models\\Employee.cs",
@@ -224,12 +194,85 @@
               "RelativeToolTip": "GestionDesConges\\Models\\Employee.cs",
               "ViewState": "AQIAAAgAAACAZmZmZmYswBcAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T15:31:01.753Z",
+              "WhenOpened": "2024-09-08T15:31:01.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GestionDesConges\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GestionDesConges\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEEAAAAAMzMzMzMbwFgAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T13:46:03.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Views\\Approval\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestionDesConges\\Views\\Approval\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Views\\Approval\\Index.cshtml",
+              "RelativeToolTip": "GestionDesConges\\Views\\Approval\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T13:41:18.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApprovalController.cs",
+              "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Controllers\\ApprovalController.cs",
+              "RelativeDocumentMoniker": "GestionDesConges\\Controllers\\ApprovalController.cs",
+              "ToolTip": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Controllers\\ApprovalController.cs",
+              "RelativeToolTip": "GestionDesConges\\Controllers\\ApprovalController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAYwBcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:48:10.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Models\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "GestionDesConges\\Models\\LeaveRequest.cs",
+              "ToolTip": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Models\\LeaveRequest.cs",
+              "RelativeToolTip": "GestionDesConges\\Models\\LeaveRequest.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:31:18.776Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "GestionDesConges\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "GestionDesConges\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAwAAAAgmZmZmZktwA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:14:43.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IApprovalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Repository\\Interfaces\\IApprovalRepository.cs",
+              "RelativeDocumentMoniker": "GestionDesConges\\Repository\\Interfaces\\IApprovalRepository.cs",
+              "ToolTip": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Repository\\Interfaces\\IApprovalRepository.cs",
+              "RelativeToolTip": "GestionDesConges\\Repository\\Interfaces\\IApprovalRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:18:52.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Models\\Department.cs",
               "RelativeDocumentMoniker": "GestionDesConges\\Models\\Department.cs",
@@ -237,12 +280,11 @@
               "RelativeToolTip": "GestionDesConges\\Models\\Department.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T15:30:47.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T15:30:47.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Approval.cs",
               "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Models\\Approval.cs",
               "RelativeDocumentMoniker": "GestionDesConges\\Models\\Approval.cs",
@@ -250,24 +292,22 @@
               "RelativeToolTip": "GestionDesConges\\Models\\Approval.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T15:30:47.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T15:30:47.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "ClassDiagram.cd",
               "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\ClassDiagram.cd",
               "RelativeDocumentMoniker": "GestionDesConges\\ClassDiagram.cd",
               "ToolTip": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\ClassDiagram.cd",
               "RelativeToolTip": "GestionDesConges\\ClassDiagram.cd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2024-09-08T16:01:48.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T16:01:48.991Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "program.cs",
               "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\program.cs",
               "RelativeDocumentMoniker": "GestionDesConges\\program.cs",
@@ -275,12 +315,11 @@
               "RelativeToolTip": "GestionDesConges\\program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T15:29:04.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T15:29:04.523Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\appsettings.json",
               "RelativeDocumentMoniker": "GestionDesConges\\appsettings.json",
@@ -288,12 +327,11 @@
               "RelativeToolTip": "GestionDesConges\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-10T10:01:15.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T10:01:15.143Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\Slap\\.nuget\\packages\\entityframeworkcore.diagrams\\0.4.2\\contentFiles\\any\\netstandard1.6\\wwwroot\\db-diagrams\\index.html",
               "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\entityframeworkcore.diagrams\\0.4.2\\contentFiles\\any\\netstandard1.6\\wwwroot\\db-diagrams\\index.html",
@@ -306,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "GestionDesConges\\Controllers\\HomeController.cs",
@@ -314,12 +352,11 @@
               "RelativeToolTip": "GestionDesConges\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T15:23:49.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T15:23:49.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "GestionDesConges\\Controllers\\EmployeeController.cs",
@@ -327,12 +364,11 @@
               "RelativeToolTip": "GestionDesConges\\Controllers\\EmployeeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T15:23:29.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T15:23:29.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "GestionDesConges\\Controllers\\DepartmentController.cs",
@@ -340,12 +376,11 @@
               "RelativeToolTip": "GestionDesConges\\Controllers\\DepartmentController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T15:23:25.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T15:23:25.983Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "DecisionController.cs",
               "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Controllers\\DecisionController.cs",
               "RelativeDocumentMoniker": "GestionDesConges\\Controllers\\DecisionController.cs",
@@ -353,12 +388,11 @@
               "RelativeToolTip": "GestionDesConges\\Controllers\\DecisionController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T15:23:19.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T15:23:19.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Views\\Department\\Index.cshtml",
               "RelativeDocumentMoniker": "GestionDesConges\\Views\\Department\\Index.cshtml",
@@ -366,8 +400,7 @@
               "RelativeToolTip": "GestionDesConges\\Views\\Department\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-20T14:00:31.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T14:00:31.071Z"
             },
             {
               "$type": "Document",
@@ -379,12 +412,11 @@
               "RelativeToolTip": "GestionDesConges\\Views\\EmployeeLogins\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-20T13:53:36.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T13:53:36.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Views\\Employee\\Index.cshtml",
               "RelativeDocumentMoniker": "GestionDesConges\\Views\\Employee\\Index.cshtml",
@@ -392,21 +424,7 @@
               "RelativeToolTip": "GestionDesConges\\Views\\Employee\\Index.cshtml",
               "ViewState": "AQIAABoAAAAAAAAAAAAhwCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-20T13:53:14.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "GestionDesConges\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "GestionDesConges\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAADEAAAAAMjMzMzMLwE8AAAByAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-20T13:46:03.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T13:53:14.226Z"
             },
             {
               "$type": "Document",
@@ -418,51 +436,11 @@
               "RelativeToolTip": "GestionDesConges\\Views\\Decision\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-20T13:41:43.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T13:41:43.042Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Views\\Approval\\Index.cshtml",
-              "RelativeDocumentMoniker": "GestionDesConges\\Views\\Approval\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Views\\Approval\\Index.cshtml",
-              "RelativeToolTip": "GestionDesConges\\Views\\Approval\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-20T13:41:18.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ApprovalController.cs",
-              "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Controllers\\ApprovalController.cs",
-              "RelativeDocumentMoniker": "GestionDesConges\\Controllers\\ApprovalController.cs",
-              "ToolTip": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Controllers\\ApprovalController.cs",
-              "RelativeToolTip": "GestionDesConges\\Controllers\\ApprovalController.cs",
-              "ViewState": "AQIAAAoAAADAmZmZmZkVwAcAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T08:48:10.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Views\\LeaveRequest\\Index.cshtml",
-              "RelativeDocumentMoniker": "GestionDesConges\\Views\\LeaveRequest\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Views\\LeaveRequest\\Index.cshtml",
-              "RelativeToolTip": "GestionDesConges\\Views\\LeaveRequest\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-20T13:53:50.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
               "Title": "Decide.cshtml",
               "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Views\\Decision\\Decide.cshtml",
               "RelativeDocumentMoniker": "GestionDesConges\\Views\\Decision\\Decide.cshtml",
@@ -470,12 +448,11 @@
               "RelativeToolTip": "GestionDesConges\\Views\\Decision\\Decide.cshtml",
               "ViewState": "AQIAADcAAAAAMjMzMzMLwEMAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-20T14:05:13.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T14:05:13.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Slap\\source\\repos\\GestionDesConges\\GestionDesConges\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "GestionDesConges\\Views\\Home\\Index.cshtml",
@@ -483,8 +460,7 @@
               "RelativeToolTip": "GestionDesConges\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAA0AAAAAMzMzMzMLwA4AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-20T13:54:05.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T13:54:05.891Z"
             }
           ]
         }
